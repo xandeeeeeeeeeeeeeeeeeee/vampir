@@ -1,0 +1,13 @@
+{
+  "porta": 8766,
+  "ollama": "http://127.0.0.1:11434",
+  "modelos": {
+    "conversa": "gemma4:12b-it-qat",
+    "extenso": "gemma4:26b-a4b-it-qat"
+  },
+  "num_ctx": 16384,
+  "num_predict": 2400,
+  "num_predict_extenso": 6000,
+  "timeout": 900,
+  "host_remoto": ""
+}

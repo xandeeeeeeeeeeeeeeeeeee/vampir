@@ -1,0 +1,30 @@
+{
+  "resultado": "ok",
+  "testes_sem_biblioteca": {
+    "resultado": "ok",
+    "saida": "testes_sem_biblioteca.txt",
+    "total": 18
+  },
+  "testes_com_biblioteca_privada": {
+    "total": 78,
+    "resultado": "ok",
+    "saida": "testes_completos.txt"
+  },
+  "integracao_http_nova_instalacao": {
+    "ok": true,
+    "nova_instalacao": true,
+    "dez_guias": true,
+    "ficha_completa_aceita": true,
+    "mapa_segregado": true,
+    "calendario_referencias": true,
+    "biblioteca": true,
+    "ollama_desligado": true,
+    "inferencias": 0
+  },
+  "campanhas_contas_livro_modelos_logs_incluidos": false,
+  "configuracao_local_incluida": false,
+  "publicado_no_github": false,
+  "biblioteca_de_teste": "usada somente em pasta privada externa Ã  distribuiÃ§Ã£o",
+  "sintaxe_javascript": "ok",
+  "sintaxe_launcher_powershell": "ok"
+}
